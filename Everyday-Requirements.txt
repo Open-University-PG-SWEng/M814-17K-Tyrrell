@@ -5,4 +5,14 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
+REQ-ID: M814-17K-MT-FRANCOISVILJOEN-A
+Description: The product shall determine the start and end date of the Holiday.
+Type: 9a – Functional Requirement
+Rationale: To understand what the ideal date range is during which the Holiday Maker wants to occupy a Holiday Property and match this information with property availability.
+Originator: Ayisha Jayakodi - Agent
 
+REQ-ID: M814-17K-MT-FRANCOISVILJOEN-B
+Description: If the desired holiday dates are not available on the viewed property, the product shall recommend alternate dates and destinations.
+Type: 9a – Functional Requirement
+Rationale: So that the potential customer can still find a suitable Holiday Destination (and be retained as business) even though his ideal location may not be available during the times chosen.
+Originator: Ayisha Jayakodi - Agent
