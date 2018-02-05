@@ -28,3 +28,15 @@ Description: The product shall display rental properties matching search criteri
 Type: Functional
 Rationale: So that a user could decide which property he/she is interested in.
 Originator: Ayisha Jayakodi - Agent
+
+REQ-ID: M814-17K-SP-STEVENPLUMMER-1
+Description: The product shall store the availability of each property
+Type: Functional
+Rationale: So that prospective holidaymakers can search for suitable properties based on date of availability
+Originator: Ayisha Jayakodi (Agent)
+
+REQ-ID: M814-17K-SP-STEVENPLUMMER-2
+Description: The product shall store the rental price of a property
+Type: Functional
+Rationale: So that prospective holidaymakers can search for suitable properties to rent based on their budget
+Originator: Ayisha Jayakodi (Agent)
