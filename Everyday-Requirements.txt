@@ -1,9 +1,19 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
+REQ-ID: M814-17K-garymathers-1
+DESCRIPTION: Include storage of information for each house advertised including images.
+RATIONALE: Information gathered by the agency will allow them on their first visits of a property to record information about rooms, heating, and services available making information more accessible to potential holidaymakers.
+ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-garymathers-2
+DESCRIPTION: Website should list available properties with option to filter by price, rooms amount or location, on dates holiday makers wishes to book.
+RATIONALE: Holiday makers can quickly see availability of rentals at the size, location and price range that suits.
+ORINGINATOR: Ayisha Jayakodi
 
 REQ-ID: M814-17K-MT-FRANCOISVILJOEN-A
 Description: The product shall determine the start and end date of the Holiday.
