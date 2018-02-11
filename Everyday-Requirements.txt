@@ -40,3 +40,15 @@ Description: The product shall store the rental price of a property
 Type: Functional
 Rationale: So that prospective holidaymakers can search for suitable properties to rent based on their budget
 Originator: Ayisha Jayakodi (Agent)
+
+REQ-ID: M814-17K-SP-ALEXANDERBOGDANOV-1
+Description: The product shall compare the owners desired price of the property to similar properties in the same area
+Type: Functional
+Rationale: So that Ayisha Jayakodi can propose a price to the owner
+Originator: Ayisha Jayakodi (Agent)
+
+REQ-ID: M814-17K-SP-ALEXANDERBOGDANOV-2
+Description: The product shall generate a contract document to be signed with the owner of the property
+Type: Functional
+Rationale: So that Ayisha Jayakodi can generate contract documents
+Originator: Ayisha Jayakodi (Agent)
