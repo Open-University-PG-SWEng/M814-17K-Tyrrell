@@ -105,10 +105,14 @@ TYPE: Functional
 RATIONALE: The property details to be stored differ, dependant upon the type of property being rented.  The product should allow for this.
 ORINGINATOR: Ayisha Jayakodi
 
-
 REQ-ID: M814-17K-jenniferday-6
 DESCRIPTION: The product shall keep a property service record
 TYPE: Functional
 RATIONALE: The property servicing or cleaning schedule needs to be recorded, so that maintenance or cleaning can take place according to this schedule
 ORINGINATOR: Ayisha Jayakodi
 
+REQ-ID: M814-17K-jenniferday-7
+DESCRIPTION: The product shall only allow one booking per available room or property at a time
+TYPE: Functional
+RATIONALE: Only one booking per room, or property should be allowed, to prevent duplicate bookings
+ORINGINATOR: Ayisha Jayakodi
