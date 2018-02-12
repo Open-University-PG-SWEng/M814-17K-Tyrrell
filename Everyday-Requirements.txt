@@ -49,7 +49,7 @@ Originator: Ayisha Jayakodi (Agent)
 
 REQ-ID: M814-17K-MARIOBARANZINI-2
 Description: The product shall return a list of available properties within the given price range, date range and location.
-Type: Funtional
+Type: Functional
 Rationale: To be able to propose a choice of appropriate properties.
 Originator: Ayisha Jayakodi (Agent)
 
@@ -74,3 +74,41 @@ REQ-ID: M814-17K-garymathers-2
 DESCRIPTION: Website should list available properties with option to filter by price, rooms amount or location, on dates holiday makers wishes to book.
 RATIONALE: Holiday makers can quickly see availability of rentals at the size, location and price range that suits.
 ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-jenniferday-1
+DESCRIPTION: The product shall store property details
+TYPE: Functional
+RATIONALE: The property details should be stored, for later retrieval by the search functionality
+ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-jenniferday-2
+DESCRIPTION: The product shall store property photographs
+TYPE: Functional
+RATIONALE: The property photographs should be stored, for later retrieval by the search functionality
+ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-jenniferday-3
+DESCRIPTION: The product shall allow property details to be modified 
+TYPE: Functional
+RATIONALE: The property details should be allowed to be altered, in case of error or property changes
+ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-jenniferday-4
+DESCRIPTION: The product shall allow property details to be removed
+TYPE: Functional
+RATIONALE: The property details should be able to be removed, or marked as not currently for rental, in case the owner no longer wishes to rent their property or temporarily take the property off the site.
+ORINGINATOR: Ayisha Jayakodi
+
+REQ-ID: M814-17K-jenniferday-5
+DESCRIPTION: The product shall store both full-house rentals, and room only rentals
+TYPE: Functional
+RATIONALE: The property details to be stored differ, dependant upon the type of property being rented.  The product should allow for this.
+ORINGINATOR: Ayisha Jayakodi
+
+
+REQ-ID: M814-17K-jenniferday-6
+DESCRIPTION: The product shall keep a property service record
+TYPE: Functional
+RATIONALE: The property servicing or cleaning schedule needs to be recorded, so that maintenance or cleaning can take place according to this schedule
+ORINGINATOR: Ayisha Jayakodi
+
