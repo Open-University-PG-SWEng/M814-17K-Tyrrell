@@ -82,36 +82,6 @@ RATIONALE: The property details should be stored, for later retrieval by the sea
 ORINGINATOR: Ayisha Jayakodi
 
 REQ-ID: M814-17K-jenniferday-2
-DESCRIPTION: The product shall store property photographs
-TYPE: Functional
-RATIONALE: The property photographs should be stored, for later retrieval by the search functionality
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-3
-DESCRIPTION: The product shall allow property details to be modified 
-TYPE: Functional
-RATIONALE: The property details should be allowed to be altered, in case of error or property changes
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-4
-DESCRIPTION: The product shall allow property details to be removed
-TYPE: Functional
-RATIONALE: The property details should be able to be removed, or marked as not currently for rental, in case the owner no longer wishes to rent their property or temporarily take the property off the site.
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-5
-DESCRIPTION: The product shall store both full-house rentals, and room only rentals
-TYPE: Functional
-RATIONALE: The property details to be stored differ, dependant upon the type of property being rented.  The product should allow for this.
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-6
-DESCRIPTION: The product shall keep a property service record
-TYPE: Functional
-RATIONALE: The property servicing or cleaning schedule needs to be recorded, so that maintenance or cleaning can take place according to this schedule
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-7
 DESCRIPTION: The product shall only allow one booking per available room or property at a time
 TYPE: Functional
 RATIONALE: Only one booking per room, or property should be allowed, to prevent duplicate bookings
