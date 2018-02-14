@@ -83,13 +83,13 @@ Property owners must have access to their relevant details just in case they nee
 Holidaymakers must have access to advertised data and they must be able to download it, for example the photos provided by the property owners.
 Originator: Ayisha Jayakodi
 
-REQ-ID: M814-17K-DJ-001
+REQ-ID: M814-17K-DJ-001 (OUT OF SCOPE)
 Description: The product shall record the dates that the property owner will be away from the property
 Type: Functional
 Rationale: The property owner might request that the property is prepared by a property services company if they are not available before a holidaymaker arrives
 Originator: Ayisha Jayakodi
 
-REQ-ID: M814-17K-DJ-002
+REQ-ID: M814-17K-DJ-002 (OUT OF SCOPE)
 Description: The product shall notify the property agent if there are properties to be serviced in the upcoming week
 Type: Functional
 Rationale: The agent will need to schedule a third party company to complete the service
