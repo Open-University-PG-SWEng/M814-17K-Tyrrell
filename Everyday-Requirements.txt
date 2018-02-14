@@ -35,16 +35,10 @@ Type: Functional
 Rationale: So that prospective holidaymakers can search for suitable properties based on date of availability
 Originator: Ayisha Jayakodi (Agent)
 
-REQ-ID: M814-17K-SP-STEVENPLUMMER-2
-Description: The product shall store the rental price of a property
+REQ-ID: M814-17K-SP-STEVENPLUMMER-2-jenniferday-1
+Description: The product shall store property details including rental price.
 Type: Functional
-Rationale: So that prospective holidaymakers can search for suitable properties to rent based on their budget
-Originator: Ayisha Jayakodi (Agent)
-
-REQ-ID: M814-17K-MARIOBARANZINI-1
-Description: The product shall record the desired price range, data range, and location.
-Type: Functional
-Rationale: To be able to search properties that match the customer’s desire.
+Rationale: So that prospective holidaymakers can search for suitable rental properties based on their budget and holiday preferences.
 Originator: Ayisha Jayakodi (Agent)
 
 REQ-ID: M814-17K-MARIOBARANZINI-2
@@ -73,12 +67,6 @@ ORINGINATOR: Ayisha Jayakodi
 REQ-ID: M814-17K-garymathers-2
 DESCRIPTION: Website should list available properties with option to filter by price, rooms amount or location, on dates holiday makers wishes to book.
 RATIONALE: Holiday makers can quickly see availability of rentals at the size, location and price range that suits.
-ORINGINATOR: Ayisha Jayakodi
-
-REQ-ID: M814-17K-jenniferday-1
-DESCRIPTION: The product shall store property details
-TYPE: Functional
-RATIONALE: The property details should be stored, for later retrieval by the search functionality
 ORINGINATOR: Ayisha Jayakodi
 
 REQ-ID: M814-17K-jenniferday-2
