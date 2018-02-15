@@ -47,12 +47,6 @@ Type: Functional
 Rationale: So that Ayisha Jayakodi can propose a price to the owner
 Originator: Ayisha Jayakodi (Agent)
 
-REQ-ID: M814-17K-SP-ALEXANDERBOGDANOV-2
-Description: The product shall generate a contract document to be signed with the owner of the property
-Type: Functional
-Rationale: So that Ayisha Jayakodi can generate contract documents
-Originator: Ayisha Jayakodi (Agent)
-
 REQ-ID: M814-17K-garymathers-1
 DESCRIPTION: Include storage of information for each house advertised including images.
 RATIONALE: Information gathered by the agency will allow them on their first visits of a property to record information about rooms, heating, and services available making information more accessible to potential holidaymakers.
