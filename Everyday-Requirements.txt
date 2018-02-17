@@ -28,8 +28,7 @@ Description: The product shall display rental properties matching search criteri
 Type: Functional
 Rationale: So that a user could decide which property he/she is interested in.
 Originator: Ayisha Jayakodi - Agent
-COMMENT: Team agrees that M814-17K-MARIOBARANZINI-2 is similar; however, removing M814-17K-JaroslavPetrovskij-2 as
-	 the better option due to a less ambiguous requirement from REQ-ID M814-17K-MARIOBARANZINI-2
+COMMENT FROM M814-17K-garymathers: Team agrees that M814-17K-MARIOBARANZINI-2 is similar and less ambiguous; therefore, removing M814-17K-JaroslavPetrovskij-2 was agreed
 
 REQ-ID: M814-17K-SP-STEVENPLUMMER-1
 Description: The product shall store the availability of each property
@@ -48,10 +47,7 @@ Description: The product shall record the desired price range, data range, and l
 Type: Functional
 Rationale: To be able to search properties that match the customer’s desire.
 Originator: Ayisha Jayakodi (Agent)
-COMMENT: Similar to M814-17K-JaroslavPetrovskij-1 and M814-17K-MARIOBARANZINI-2. 
-	 Also  M814-17K-MARIOBARANZINI-1 says record desired price range etc. When really return would be a
-	 better option as the system should not hold onto search info but just return the filtered data upon 
-	 user selection of their ideal price range etc.
+COMMENT FROM M814-17K-garymathers: Similar to M814-17K-JaroslavPetrovskij-1 and M814-17K-MARIOBARANZINI-2. Also  M814-17K-MARIOBARANZINI-1 says record desired price range etc. When really return would be a better option as the system should not hold onto search info but just return the filtered data upon user selection of their ideal price range etc.
 
 REQ-ID: M814-17K-MARIOBARANZINI-2
 Description: The product shall return a list of available properties within the given price range, date range and location.
@@ -80,16 +76,14 @@ REQ-ID: M814-17K-garymathers-2
 DESCRIPTION: Website should list available properties with option to filter by price, rooms amount or location, on dates holiday makers wishes to book.
 RATIONALE: Holiday makers can quickly see availability of rentals at the size, location and price range that suits.
 ORINGINATOR: Ayisha Jayakodi
-COMMENT: Similar to functional requirement M814-17K-JaroslavPetrovskij-1 which is already mentioned. 
+COMMENT FROM M814-17K-garymathers: Similar to functional requirement M814-17K-JaroslavPetrovskij-1 which is already mentioned. 
 
 REQ-ID: M814-17K-jenniferday-1
 DESCRIPTION: The product shall store property details
 TYPE: Functional
 RATIONALE: The property details should be stored, for later retrieval by the search functionality
 ORINGINATOR: Ayisha Jayakodi
-COMMENT: I would reccommend the removal of this requirement due to the similarities to 
-	 M814-17K-garymathers-1, 
-which is displayed above.
+COMMENT FROM M814-17K-garymathers: I would reccommend the removal of this requirement due to the similarities to M814-17K-garymathers-1, which is displayed above.
 
 
 REQ-ID: M814-17K-jenniferday-2
@@ -103,10 +97,7 @@ Description: The details of properties, owner and holidaymakers must be stored o
 Type: Functional Requirement
 Rationale: Property owners has to provide their own details as well as their property including photos of it. These details must conform with the UK legislation and a legal contract must be created ensuring fees and other arrangements are covered. Details of the holidaymakers are also needed among with the data to be stored.
 Originator: Ayisha Jayakodi
-COMMENT: I would reccommend the removal of this requirement due to the similarities to 
-	 M814-17K-garymathers-1, 
-which is displayed above. However, merging details of 
-	 property owners and holiday makers would be welcomed addition if team agrees?
+COMMENT FROM M814-17K-garymathers: I would reccommend the removal of this requirement due to the similarities to M814-17K-garymathers-1, which is displayed above. However, merging details of property owners and holiday makers would be welcomed addition if team agrees?
 
 REQ-ID: M814-17K-FF449-FM-B
 Description: The system must help the holidaymakers identify the best property for their needs.
