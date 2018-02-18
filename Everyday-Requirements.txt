@@ -64,12 +64,6 @@ TYPE: Functional
 RATIONALE: Only one booking per room, or property should be allowed, to prevent duplicate bookings
 ORINGINATOR: Ayisha Jayakodi
 
-REQ-ID: M814-17K-FF449-FM-A
-Description: The details of properties, owner and holidaymakers must be stored on a local database.
-Type: Functional Requirement
-Rationale: Property owners has to provide their own details as well as their property including photos of it. These details must conform with the UK legislation and a legal contract must be created ensuring fees and other arrangements are covered. Details of the holidaymakers are also needed among with the data to be stored.
-Originator: Ayisha Jayakodi
-
 REQ-ID: M814-17K-FF449-FM-B
 Description: The system must help the holidaymakers identify the best property for their needs.
 Type: Functional Requirement
