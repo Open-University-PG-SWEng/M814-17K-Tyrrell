@@ -131,3 +131,16 @@ Type: Functional
 Rationale: The agent will need to schedule a third party company to complete the service
 Originator: Ayisha Jayakodi
 
+
+REQ-ID: M814-17K-KF-1 
+Description: The product shall store personal details for a holidaymaker.
+Rationale: So that holidaymakers can be contacted about suitable properties either by mail, email or phone.
+Originator: Ayisha Jayakodi - Agent
+
+
+REQ-ID: M814-17K-KF-2 
+Description: The product shall store property details for a holidaymaker on properties they are looking for including a price, date range and location.
+Rationale: So that holidaymakers can search for suitable properties that are matched against their criteria.
+Originator: Ayisha Jayakodi - Agent 
+
+
