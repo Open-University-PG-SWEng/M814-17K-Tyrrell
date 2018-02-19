@@ -82,12 +82,6 @@ RATIONALE: Information gathered by the agency will allow them on their first vis
 ORINGINATOR: Ayisha Jayakodi
 
 
-REQ-ID: M814-17K-garymathers-2
-DESCRIPTION: Website should list available properties with option to filter by price, rooms amount or location, on dates holiday makers wishes to book.
-RATIONALE: Holiday makers can quickly see availability of rentals at the size, location and price range that suits.
-ORINGINATOR: Ayisha Jayakodi
-
-
 REQ-ID: M814-17K-jenniferday-2
 DESCRIPTION: The product shall only allow one booking per available room or property at a time
 TYPE: Functional
