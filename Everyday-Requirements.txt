@@ -102,15 +102,6 @@ Rationale: Property owners has to provide their own details as well as their pro
 Originator: Ayisha Jayakodi
 
 
-REQ-ID: M814-17K-FF449-FM-B
-Description: The system must help the holidaymakers identify the best property for their needs.
-Type: Functional Requirement
-Rationale: The data stored on the local database must be available to the agents and help the holidaymakers to decide which property is the most appropriated for their needs. 
-Property owners must have access to their relevant details just in case they need to update anything. 
-Holidaymakers must have access to advertised data and they must be able to download it, for example the photos provided by the property owners.
-Originator: Ayisha Jayakodi
-
-
 REQ-ID: M814-17K-DJ-001
 Description: The product shall record the dates that the property owner will be away from the property
 Type: Functional
