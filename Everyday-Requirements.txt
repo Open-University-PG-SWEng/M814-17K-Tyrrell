@@ -132,7 +132,6 @@ Rationale: The agent will need to schedule a third party company to complete the
 Originator: Ayisha Jayakodi
 
 
-<<<<<<< HEAD
 REQ-ID: M814-17K-KF-1 
 Description: The product shall store personal details for a holidaymaker.
 Rationale: So that holidaymakers can be contacted about suitable properties either by mail, email or phone.
@@ -157,5 +156,4 @@ Description: The product shall supply confirmation of the booking to the holiday
 Type: Functional
 Rationale: The product must provide confirmation so that the holidaymaker knows that their booking is completed successfully and that the property owner knows that their property will be occupied during the booking duration.
 Originators: Ayisha Jayakodi (Agent)
->>>>>>> 15690fbc4baf091a9b17c113f74ad6eb0e631fbf
 
