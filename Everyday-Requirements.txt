@@ -131,3 +131,17 @@ Type: Functional
 Rationale: The agent will need to schedule a third party company to complete the service
 Originator: Ayisha Jayakodi
 
+
+REQ-ID: M814-17K-SK-001
+Description: The product shall accept the holidaymaker’s payment
+Type: Functional
+Rationale: To be able to accept payment for the booking and therefore pay the property owner
+Originator: Ayisha Jayakodi (Agent)
+
+
+REQ-ID: M814-17K-SK-002
+Description: The product shall supply confirmation of the booking to the holidaymaker
+Type: Functional
+Rationale: The product must provide confirmation so that the holidaymaker knows that their booking is completed successfully and that the property owner knows that their property will be occupied during the booking duration.
+Originators: Ayisha Jayakodi (Agent)
+
