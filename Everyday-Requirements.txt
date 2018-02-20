@@ -27,12 +27,6 @@ Rationale: So that a user could indicate what property he/she wishes to rent.
 Originator: Ayisha Jayakodi - Agent
 
 
-REQ-ID: M814-17K-JaroslavPetrovskij-2
-Description: The product shall display rental properties matching search criteria.
-Type: Functional
-Rationale: So that a user could decide which property he/she is interested in.
-Originator: Ayisha Jayakodi - Agent
-
 
 REQ-ID: M814-17K-SP-STEVENPLUMMER-1
 Description: The product shall store the availability of each property
@@ -47,12 +41,6 @@ Type: Functional
 Rationale: So that prospective holidaymakers can search for suitable properties to rent based on their budget
 Originator: Ayisha Jayakodi (Agent)
 
-
-REQ-ID: M814-17K-MARIOBARANZINI-1
-Description: The product shall record the desired price range, data range, and location.
-Type: Functional
-Rationale: To be able to search properties that match the customer’s desire.
-Originator: Ayisha Jayakodi (Agent)
 
 
 REQ-ID: M814-17K-MARIOBARANZINI-2
@@ -89,7 +77,7 @@ ORINGINATOR: Ayisha Jayakodi
 
 
 REQ-ID: M814-17K-jenniferday-1
-DESCRIPTION: The product shall store property details
+Description: The product shall store property details for a holidaymaker on properties they are looking for including a price, date range and location.
 TYPE: Functional
 RATIONALE: The property details should be stored, for later retrieval by the search functionality
 ORINGINATOR: Ayisha Jayakodi
@@ -106,15 +94,6 @@ REQ-ID: M814-17K-FF449-FM-A
 Description: The details of properties, owner and holidaymakers must be stored on a local database.
 Type: Functional Requirement
 Rationale: Property owners has to provide their own details as well as their property including photos of it. These details must conform with the UK legislation and a legal contract must be created ensuring fees and other arrangements are covered. Details of the holidaymakers are also needed among with the data to be stored.
-Originator: Ayisha Jayakodi
-
-
-REQ-ID: M814-17K-FF449-FM-B
-Description: The system must help the holidaymakers identify the best property for their needs.
-Type: Functional Requirement
-Rationale: The data stored on the local database must be available to the agents and help the holidaymakers to decide which property is the most appropriated for their needs. 
-Property owners must have access to their relevant details just in case they need to update anything. 
-Holidaymakers must have access to advertised data and they must be able to download it, for example the photos provided by the property owners.
 Originator: Ayisha Jayakodi
 
 
@@ -137,11 +116,6 @@ Description: The product shall store personal details for a holidaymaker.
 Rationale: So that holidaymakers can be contacted about suitable properties either by mail, email or phone.
 Originator: Ayisha Jayakodi - Agent
 
-
-REQ-ID: M814-17K-KF-2 
-Description: The product shall store property details for a holidaymaker on properties they are looking for including a price, date range and location.
-Rationale: So that holidaymakers can search for suitable properties that are matched against their criteria.
-Originator: Ayisha Jayakodi - Agent 
 
 =======
 REQ-ID: M814-17K-SK-001
