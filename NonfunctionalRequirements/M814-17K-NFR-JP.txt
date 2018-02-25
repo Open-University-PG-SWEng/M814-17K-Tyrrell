@@ -1,0 +1,7 @@
+REQ-ID: M814-17K-NFR-JP
+Description: The product shall be accessible using all major modern web browsers.
+Type: Non-functional, Operational and Environmental
+Rationale: The cross browser support is important to make the product available to the widest possible audience and thus to attract more clients.
+Fit Criterion: The product shall pass the user acceptance testing using Chrome, Safari, Firefox, Internet Explorer and Edge.
+Originator: Jaroslav Petrovskij
+Comments:
