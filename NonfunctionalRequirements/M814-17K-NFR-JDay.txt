@@ -1,0 +1,6 @@
+REQ-ID: M814-17K-NFR-JDay
+Description: The product shall use Landbnb branding.
+Type: Non-functional, Look and feel
+Rationale: The website shall use Landbnb corporate colours and branding logos
+Originator: Jennifer Day
+Comments:
