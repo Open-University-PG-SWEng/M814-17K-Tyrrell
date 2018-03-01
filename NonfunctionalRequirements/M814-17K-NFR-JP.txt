@@ -6,4 +6,4 @@ Fit Criterion: The product shall pass the user acceptance testing using Chrome, 
 Originator: Jaroslav Petrovskij
 Comments:
 
--FrancoisViljoen(TMA03 Q1c) - I think this NFR is very valid in terms of it's intent to define browser compatibility.  One aspect that one should probably consider adding to the fit criteria is specifying the actual versions of the respective browsers that needs to be supported.  One could also quantify it by saying something like 'Whenever a version is released, it should support all versions of the listed browsers released in the last 3 years.  This will future-proof this NFR, so it can be used indefinitely.
+-FrancoisViljoen(TMA03 Q1c) - I think this NFR is very valid in terms of its intent to define browser compatibility.  One aspect that one should probably consider adding to the fit criteria is specifying the actual versions of the respective browsers that needs to be supported.  One could also quantify it by saying something like 'Whenever a version is released, it should support all versions of the listed browsers released in the last 3 years.  This will future-proof this NFR, so it can be used indefinitely.
