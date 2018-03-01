@@ -4,3 +4,5 @@ Type: Non-functional, Look and feel
 Rationale: The website shall use Landbnb corporate colours and branding logos
 Originator: Jennifer Day
 Comments:
+
+-FrancoisViljoen(TMA03 Q1c) - The Fit Criterion is missing from this NFR.  I think it could be a reference to the Style Guide of the Company in terms of Branding - and the version thereof.
