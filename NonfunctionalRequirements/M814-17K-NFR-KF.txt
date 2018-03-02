@@ -11,3 +11,10 @@ Fit criterion. The product shall pass user acceptance testing for entering holid
 Originator: Kevin Florish
 
 Comments:
+
+FV : 
+I do not think this NFR will pass the quality gateway because of two reasons:
+
+* The fit Criteria is very open ended - I would quantify it in more detail - something like 'at least one device with Windows, Android, iOS that was released in the last year'
+
+* I am also not sure if testing a website on Different hardware devices is something that will work practically - Browsers and Operating systems provide enough of an abstraction from the actual hardware in my view.
