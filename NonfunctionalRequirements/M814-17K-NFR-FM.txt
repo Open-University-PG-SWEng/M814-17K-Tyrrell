@@ -1,0 +1,7 @@
+REQ-ID: M814-17K-NFR-FM
+Description: Stored details must comply with the UK legislation.
+Type: 17 - Legal Requirements
+Rationale: To ensure that the Landbnb's database system and their data are legally managed.
+Fit Criterion: The database must be created, used and maintained legally by complying with the most up to date UK legislation. 
+Originator: Ayisha Jayakodi
+Comments: 
