@@ -1,0 +1,22 @@
+REQ-ID: M814-17K-NFR-KF
+
+Description: The product shall allow entry of holidaymaker details regardless of the hardware device being used.
+
+Type Non-functional, Operational and Environmental.
+
+Regardless of whether the holidaymaker is using a PC, Laptop, Notepad or Mobile device the form for entering holidaymaker details should be accessible and enterable via their device.
+
+Fit criterion. The product shall pass user acceptance testing for entering holidaymaker details using any hardware device that has access to the product via the internet.
+
+Originator: Kevin Florish
+
+Comments:
+
+FV : 
+I do not think this NFR will pass the quality gateway because of two reasons:
+
+* The fit Criteria is very open ended - I would quantify it in more detail - something like 'at least one device with Windows, Android, iOS that was released in the last year'
+
+* I am also not sure if testing a website on Different hardware devices is something that will work practically - Browsers and Operating systems provide enough of an abstraction from the actual hardware in my view.
+
+Jennifer Day : From experience, it is not possible to be able to test on every toes of device, the scope is quite wide.  I think a handful of named devices / resolutions should be targeted.

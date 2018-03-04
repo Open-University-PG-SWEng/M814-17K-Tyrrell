@@ -1,0 +1,11 @@
+REQ-ID: M814-17K-NFR-MARIOBARANZINI
+
+Description: The product shall return the list of matching properties within 5 seconds.
+Type: Non-functional, Type 12 Performance
+Rationale: If the user finds the product slow and poorly reactive, he may be tempting to go onto a competing product.
+Fit Criterion: Same as the description (The product shall return the list of matching properties within 5 seconds.)
+Originator: Ayisha Jayakodi - Agent
+
+Comments:
+
+Jennifer Day : I think that the description should be moved to the fit criterion, and maybe a more generic description applied? Maybe something like "The product shall return a list of properties, matching the selected search criteria, promptly".  
