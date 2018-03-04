@@ -1,0 +1,9 @@
+REQ-ID: M814-17K-NFR-JDay
+Description: The product shall use Landbnb branding to give the site a consistent look and feel.
+Type: Non-functional, Type 10 : Look and feel
+Rationale: The product shall use Landbnb corporate colours and branding logos so that everything has a consistent look and feel throughout the product.
+Fit Criterion: The branding guidelines provided by the Landbnb marketing team shall be followed.
+Originator: Ayisha Jayakodi
+Comments:
+
+-FrancoisViljoen(TMA03 Q1c) - The Fit Criterion is missing from this NFR.  I think it could be a reference to the Style Guide of the Company in terms of Branding - and the version thereof.

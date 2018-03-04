@@ -8,3 +8,4 @@ Originator: Ayisha Jayakodi - Agent
 
 Comments:
 
+Jennifer Day : I think that the description should be moved to the fit criterion, and maybe a more generic description applied? Maybe something like "The product shall return a list of properties, matching the selected search criteria, promptly".  
