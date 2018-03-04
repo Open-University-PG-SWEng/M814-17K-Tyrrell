@@ -5,3 +5,5 @@ Rationale: To ensure that the Landbnb's database system and their data are legal
 Fit Criterion: The database must be created, used and maintained legally by complying with the most up to date UK legislation. 
 Originator: Ayisha Jayakodi
 Comments: 
+
+Jennifer Day : I'm not convinced that the use of a database should be mentioned as the method of storage still, perhaps it is the best way, but it feels like its an implementation detail - unless this is mentioned as a constraint?

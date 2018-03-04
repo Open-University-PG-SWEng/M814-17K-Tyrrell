@@ -11,3 +11,5 @@ Fit Criterion:Aim to reach an average unique site visit time of > 3minutes and a
 Originator:Ayisha Jayakodi - Agent
 
 Comments: 
+
+Jennifer Day : Struggling to find some way to improve this, looks a good requirement.  Theft criterion looks measurable, where did the timings (3 minutes / conversion rate) come from?
