@@ -69,18 +69,9 @@ ORINGINATOR: Ayisha Jayakodi
 
 
 REQ-ID: M814-17K-FF449-FM-A
-Description: The details of properties, owner and holidaymakers must be stored on a local database.
+Description: The details must be stored on a local database.
 Type: Functional Requirement
 Rationale: Property owners must provide their own details as well as their property including photos of it. These details must conform with the UK legislation and a legal contract must be created ensuring fees and other arrangements are covered. Details of the holidaymakers are also needed among with the data to be stored. Details of the property such as availability (date range), rental price and location must be part of the search functionality allowing holidaymakers finding a suitable property based on their needs.
-Originator: Ayisha Jayakodi
-
-
-REQ-ID: M814-17K-FF449-FM-B
-Description: The product must help the holidaymakers identify the best property for their needs.
-Type: Functional Requirement
-Rationale: The data stored on the local database must be available to the agents and help the holidaymakers to decide which property is the most appropriated for their needs. 
-Property owners must have access to their relevant details just in case they need to update anything. 
-Holidaymakers must have access to advertised data and they must be able to download it, for example the photos provided by the property owners.
 Originator: Ayisha Jayakodi
 
 
