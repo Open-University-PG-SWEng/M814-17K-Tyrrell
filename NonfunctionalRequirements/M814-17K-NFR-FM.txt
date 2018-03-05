@@ -7,3 +7,4 @@ Originator: Ayisha Jayakodi
 Comments: 
 
 Jennifer Day : I'm not convinced that the use of a database should be mentioned as the method of storage still, perhaps it is the best way, but it feels like its an implementation detail - unless this is mentioned as a constraint?
+[Jaroslav Petrovskij] I think, the description should be made more specific by mentioning personal data rather than a database in general and the fit criterion should be made more specific by mentioning compliance with GDPR rather than generic UK legislation.
