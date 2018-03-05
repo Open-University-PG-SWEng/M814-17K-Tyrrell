@@ -12,7 +12,7 @@ Originator:Ayisha Jayakodi - Agent
 
 Comments: 
 
-Jennifer Day : Struggling to find some way to improve this, looks a good requirement.  Theft criterion looks measurable, where did the timings (3 minutes / conversion rate) come from?
+Jennifer Day : Struggling to find some way to improve this, looks a good requirement.  The criterion looks measurable, where did the timings (3 minutes / conversion rate) come from?
 
 FV - Responses to Comment Above:
 Conversion rate of 1% based on various websites such as these:  https://www.noisylittlemonkey.com/blog/average-website-conversion-rate-uk. Overall, the rate seems to be between 1-2% on average.  So the 1% is a stab at a good starting point, which may be improved later on.
