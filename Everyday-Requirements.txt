@@ -80,14 +80,14 @@ REQ-ID: M814-17K-jenniferday-1
 Description: The product shall store property details for a holidaymaker on properties they are looking for including a price, date range and location.
 TYPE: Functional
 RATIONALE: The property details should be stored, for later retrieval by the search functionality
-ORINGINATOR: Ayisha Jayakodi
+ORIGINATOR: Ayisha Jayakodi
 
 
 REQ-ID: M814-17K-jenniferday-2
 DESCRIPTION: The product shall only allow one booking per available room or property at a time
 TYPE: Functional
 RATIONALE: Only one booking per room, or property should be allowed, to prevent duplicate bookings
-ORINGINATOR: Ayisha Jayakodi
+ORIGINATOR: Ayisha Jayakodi
 
 
 REQ-ID: M814-17K-FF449-FM-A
