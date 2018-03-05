@@ -6,10 +6,18 @@ Type:11 - Usability and Humanity Requirements
 
 Rationale:The longer someone remains on the website, the more time will be spent evaluating holiday destinations that is on offer by the system and will increase the chances of a booking being made.
 
-Fit Criterion:Aim to reach an average unique site visit time of > 3minutes and a Conversion rate to bookings made of 1 in every unique 100 visits.
+Fit Criterion:Aim to reach an average unique site visit time of > 3minutes and a Conversion rate to bookings made of 1 in every unique 100 visits. (References: https://www.noisylittlemonkey.com/blog/average-website-conversion-rate-uk and https://moz.com/blog/ecommerce-kpi-benchmark-study)
 
 Originator:Ayisha Jayakodi - Agent
 
 Comments: 
 
 Jennifer Day : Struggling to find some way to improve this, looks a good requirement.  Theft criterion looks measurable, where did the timings (3 minutes / conversion rate) come from?
+
+FV - Responses to Comment Above:
+Conversion rate of 1% based on various websites such as these:  https://www.noisylittlemonkey.com/blog/average-website-conversion-rate-uk. Overall, the rate seems to be between 1-2% on average.  So the 1% is a stab at a good starting point, which may be improved later on.
+
+The three minutes visitation time is also based on looking at a few websites that has some indication of Session duration for ECommerce sites.  Example can be found here: https://moz.com/blog/ecommerce-kpi-benchmark-study.  3 Minutes seems to be a low average and the assumption is that if there is something wrong with a website, somebody will not hang around for 3 minutes.
+
+Open question is whether one would add references to the source data onto the NFR - or keep it as a reference somewhere else in case one needs to refer back to it?
+
