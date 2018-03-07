@@ -7,4 +7,5 @@ Originator: Ayisha Jayakodi
 Comments:
 
 -FrancoisViljoen(TMA03 Q1c) - The Fit Criterion is missing from this NFR.  I think it could be a reference to the Style Guide of the Company in terms of Branding - and the version thereof.
-[Jaroslav Petrovskij] The fit criterion is not consistent with the organisational structure of Landbnb, which does not have a marketing team or department, which could provide branding guidelines. I would suggest that the fit criterion is reworded along the lines of "The design and branding scheme formally agreed with the Landbnb representative shall be followed throughout the product."
+[Jaroslav Petrovskij] The fit criterion is not consistent with the organisational strucure of Landbnb, which does not have a marketing team or department, which could provide branding guidelines. I would suggest that the fit criterion is reworded along the lines of "The design and branding scheme formally agreed with the Landbnb representative shall be followed throughout the product."
+Kevin Florish: Obviously the branding is important as its mentioned within the original case study, maybe just mention we that want the branding to be consistent with the brochures currently used by landBnb.
