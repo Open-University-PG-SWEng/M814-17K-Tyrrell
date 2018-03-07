@@ -20,3 +20,22 @@ I do not think this NFR will pass the quality gateway because of two reasons:
 * I am also not sure if testing a website on Different hardware devices is something that will work practically - Browsers and Operating systems provide enough of an abstraction from the actual hardware in my view.
 
 Jennifer Day : From experience, it is not possible to be able to test on every type of device, the scope is quite wide.  I think a handful of named devices / resolutions should be targeted.
+
+Thanks for the input Jennifer have updated the NFR as below:
+
+
+Amended non-functional requirement REQ-ID: M814-17K-NFR-KF for the functional requirement REQ-ID: M814-17K-KF-1 which I will push to the repository when I get the chance:
+
+REQ-ID: M814-17K-NFR-KF
+
+Description: The product shall allow entry of holidaymaker details regardless of the screen resolution being used.
+
+Type Non-functional, Operational and Environmental.
+
+Regardless of whether the holidaymaker is using a PC, Laptop, Notepad or Mobile device the form for entering holidaymaker details should be displayable and modifiable via their device.
+
+Fit criterion. The product shall pass user acceptance testing for entering holidaymaker details using any screen resolution.
+
+Originator: Kevin Florish
+
+Comments: Form entry should be tested with as many screen resolutions as possible.
