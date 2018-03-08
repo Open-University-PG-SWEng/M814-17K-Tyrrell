@@ -1,0 +1,13 @@
+REQ-ID: M814-17K-NFR-AB
+Description: The product shall compare the owners desired price of the property to prices of Similar Properties in the same area in real time.
+Type: 12 - Non-Functional, Performance
+Rationale: So that while the details of the property are being filled in, the comparison can take place resulting in a quicker comparison.
+Fit Criterion: The process of obtaining the results of the comparison has to be initiated at a maximum delay of 20 milliseconds
+after the first detail/attribute of the property being filled in is complete. Similarly, as soon as there are more details/attributes
+of the property being filled in, the completion of these should restart the process with the same maximum time delay.
+Similarly, new properties added by other owners that match Similar Properties criteria (documented in 14.4-Similar-Properties),
+should restart the processes of comparison of properties that are currently being compared, with the same maximum time delay.
+Originator: Ayisha Jayakodi
+
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
