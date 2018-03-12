@@ -8,6 +8,8 @@ Rationale:The longer someone remains on the website, the more time will be spent
 
 Fit Criterion:Aim to reach an average unique site visit time of > 3minutes and a Conversion rate to bookings made of 1 in every unique 100 visits. (References: https://www.noisylittlemonkey.com/blog/average-website-conversion-rate-uk and https://moz.com/blog/ecommerce-kpi-benchmark-study)
 
+A group of 50 potential clients of Landbnb should be assembled and asked to try to make their holiday booking using Everyday.
+
 Originator:Ayisha Jayakodi - Agent
 
 Comments: 
