@@ -1,8 +1,8 @@
 REQ-ID: M814-17K-NFR-JP
 Description: The product shall be accessible using all major modern web browsers.
 Type: Non-functional, Operational and Environmental
-Rationale: The cross browser support is important to make the product available to the widest possible audience and thus to attract more clients.
-Fit Criterion: The product shall pass the user acceptance testing using Chrome, Safari, Firefox, Internet Explorer and Edge.
+Rationale: The cross-browser support is important to make the product available to the widest possible audience and thus to attract more clients.
+Fit Criterion: The product shall pass the user acceptance testing using the first and the last version of Chrome, Safari, Firefox, Internet Explorer, Edge and Opera browsers released in the last 24 months.
 Originator: Jaroslav Petrovskij
 Comments:
 
@@ -10,3 +10,8 @@ Comments:
 -Jennifer Day : I feel that the testing should be done against version XYZ of each browser listed, as future browser changes could cause problems with the product moving forward, and it would be good to know which version of each was tested.
 -Kevin Florish: Bit pedantic but can you also add Opera to the browser list as I think 3-4% still use this browser.
 -Alex Bogdanov: I think the NFR is valid and passes the gateway. I think that we could also include evolving standards thus removing constraints on reuse of this requirement. I suggest that the Fit Criterion could include the "W3C standards & markup validation". "The product must pass the W3C standards specification based on the document type used in the application and the front-end acceptance tests must pass in all major browser versions released in the last 36 months."
+
+[Jaroslav Petrovskij] Thank you for the comments and suggestions. I have made the following changes to the initial requirement based on the feedback:
+1. I have specified the versions of browsers that should be used for user acceptance testing (the first and the last version of each specified browser released in the last 24 months). This should ensure that the product is operational in the clear majority of browser versions currently in use worldwide.
+2. I have included Opera in the list of browsers that the product should be tested against, as there is a small but non-negligible proportion of Internet users using this browser.
+3. I have decided against including the requirement to comply with W3C standards specification. Although, this is of course an important goal, it does not in itself benefit the business. Complying with these standards may actually be one way for the product to be compatible with the required browser versions, and so an "implementation detail".
