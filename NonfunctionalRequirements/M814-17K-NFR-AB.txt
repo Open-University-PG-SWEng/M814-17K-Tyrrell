@@ -11,3 +11,5 @@ Originator: Ayisha Jayakodi
 
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[Fernando Magrina] - I think it'd be better if there were different criteria, it looks like there is only only criteria for everything. I'd add more specific targets for other processes as it (in theory) is part of a thread.
