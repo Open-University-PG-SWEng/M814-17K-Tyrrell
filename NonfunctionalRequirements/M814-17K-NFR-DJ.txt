@@ -1,0 +1,7 @@
+REQ-ID:		M814-17K-NFR-DJ
+Description:	The product must allow the holiday owner to inform the company that they will be away from the property and provide instructions to service the property
+Type:		Usability and Humanity
+Rationale:	Payable services will be provided based on the property owners instructions, consent must be collected from the property owner and they must be able to inform the dates of their absence
+Fit Criterion:	Property owner can specify a date range and provide consent to delivery payable services 
+Originator:	Caroline Sterling
+Comments:	
