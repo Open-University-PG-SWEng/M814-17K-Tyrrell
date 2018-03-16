@@ -13,3 +13,4 @@ Originator: Ayisha Jayakodi
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [Fernando Magrina] - I think it'd be better if there were different criteria, it looks like there is only one criteria for everything. I'd add more specific targets for other processes as it (in theory) is part of a thread.
+[David James] I think that this requirement should be re-worded to make it clearer who is entering the information. Is the system providing real-time feedback to the owner or to Ayisha? I would assume based solely on the NFR that feedback is given to the owner as they are entering the details of their property, but your FR implies that this information is provided for Ayisha.
