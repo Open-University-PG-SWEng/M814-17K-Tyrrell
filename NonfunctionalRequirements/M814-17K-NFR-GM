@@ -13,9 +13,9 @@ Internet connection speeds, the server should respond to
 client requests in less that one second, also interactions 
 with the server which require processing, such as storing 
 house details and pushing thumbnails of images of houses, 
-should take less that three seconds.
+should take less that two seconds.
 
-Supporting materials: http://website www.hobo-web.co.uk
+Supporting materials: https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
 
 Originator: Ayisha Jayakodi - Agent
 
