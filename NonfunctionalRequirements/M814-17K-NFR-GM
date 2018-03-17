@@ -1,0 +1,21 @@
+REQ-ID: M814-17K-NFR-GM
+Description: Include storage of information for each house advertised including images.
+
+Type: Usability
+
+Rationale: 
+Quick/acceptable connection speeds and server response times will enable the agent and potential 
+holiday makers update/see information reliably improving user experience 
+being able to review updated information reliably and accurately at earliest opportunity.
+
+Fit Criterion: 
+Internet connection speeds, the server should respond to 
+client requests in less that one second, also interactions 
+with the server which require processing, such as storing 
+house details and pushing thumbnails of images of houses, 
+should take less that three seconds.
+
+Originator: Ayisha Jayakodi - Agent
+
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
