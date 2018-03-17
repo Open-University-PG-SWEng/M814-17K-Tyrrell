@@ -4,4 +4,9 @@ Type:		Usability and Humanity
 Rationale:	Payable services will be provided based on the property owners instructions, consent must be collected from the property owner and they must be able to inform the dates of their absence
 Fit Criterion:	Property owner can specify a date range and provide consent to delivery payable services 
 Originator:	Caroline Sterling
-Comments:	
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[Gary-Mathers] : Hi David, hope this helps, for fit criterion I find it hard to read an actual measurement, for example I could say the consent to delivery payable services will be availble 
+for consenting to in under a minute, with maybe an assumption as to what you may have agreed on with your stakeholder, finding out what time frame is important to them for additional supporting materials.
+Other than measureing of fit criterion the description, type, rationale all seem really good.
