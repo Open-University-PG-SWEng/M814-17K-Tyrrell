@@ -1,12 +1,17 @@
 REQ-ID: M814-17K-NFR-GM
+
 Description: To include a good performing hosting service for the website to work from, with the additional fast upload and download speeds of storing of information capabilities, to include information about each house advertised including images.
+
 Type: Performance
+
 Rationale: Quick/acceptable connection speeds and server response times will enable the agent and potential holidaymakers update/see information reliably improving the user experience being able to review updated information reliably and accurately at the earliest opportunity.
 Fit Criterion: Internet connection speeds, the server should respond to client requests in less than one second, also interactions with the server which requires processing, such as storing house details and pushing thumbnails of images of houses, should take less than two seconds.
+
 Supporting materials:  https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/  
 Originator: Ayisha Jayakodi - Agent
 
 Comments:
+
 [David James] The description of the NFR (what information to store) doesn't really match the rationale or the fit criterion which are both related to performance. I think the rationale and fit criterion are both good but I would change the description to more accurately reflect the NFR.
 
 [Gary Mathers] Firstly thank you very much for the feedback. 
