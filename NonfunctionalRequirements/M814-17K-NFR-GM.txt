@@ -1,48 +1,35 @@
 REQ-ID: M814-17K-NFR-GM
-Description: Include storage of information for each house advertised including images.
 
-Type: Usability
-<<<<<<< HEAD
-=======
+Description: To include a good performing hosting service for the website to work from, with the additional fast upload and download speeds of storing of information capabilities, to include information about each house advertised including images.
+
+Type: Performance
 
 Rationale: 
-Quick/acceptable connection speeds and server response times will enable the agent and potential 
-holiday makers update/see information reliably improving user experience 
-being able to review updated information reliably and accurately at earliest opportunity.
+Quick/acceptable connection speeds and server response times will enable the agent and potential holidaymakers update/see information reliably improving user experience being able to review updated information reliably and accurately at the earliest opportunity.
 
 Fit Criterion: 
-Internet connection speeds, the server should respond to 
-client requests in less that one second, also interactions 
-with the server which require processing, such as storing 
-house details and pushing thumbnails of images of houses, 
-should take less that two seconds.
+Internet connection speeds, the server should respond to client requests in less than one second, also interactions with the server which require processing, such as storing house details and pushing thumbnails of images of houses, 
+should take less than two seconds.
 
 Supporting materials: https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
 
 Originator: Ayisha Jayakodi - Agent
 
-
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
->>>>>>> c66eab46330a0c37318e195675f2a1ae17505265
-
 Rationale: 
-Quick/acceptable connection speeds and server response times will enable the agent and potential 
-holiday makers update/see information reliably improving user experience 
-being able to review updated information reliably and accurately at earliest opportunity.
+Quick/acceptable connection speeds and server response times will enable the agent and potential holidaymakers update/see information reliably improving user experience being able to review updated information reliably and accurately at the earliest opportunity.
 
 Fit Criterion: 
 Internet connection speeds, the server should respond to 
-client requests in less that one second, also interactions 
-with the server which require processing, such as storing 
-house details and pushing thumbnails of images of houses, 
-should take less that two seconds.
+client requests in less than one second, also interactions with the server which require processing, such as storing house details and pushing thumbnails of images of houses, should take less than two seconds.
 
 Supporting materials: https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
 
 Originator: Ayisha Jayakodi - Agent
 
-
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
+Comments:
 [David James] The description of the NFR (what information to store) doesn't really match the rationale or the fit criterion which are both related to performance. I think the rationale and fit criterion are both good but I would change the description to more accurately reflect the NFR.
+
+[Gary Mathers] Firstly thank you very much for the feedback. 
+I fully agree that the description of reflection was vague, also I agree that this is more of a performance requirement than usability. Although originally I was thinking if speeds were poor this would have a knock-on effect on usability and users may leave for another competitor site. Nevertheless, with further analysis of your comment, if the test passes as performance it won't impact negatively on usability reducing ambiguity of test, complexity and scope creep as to exactly what is being tested. 
+To sum I have updated the description, type and deleted the merge conflict issue.
+
