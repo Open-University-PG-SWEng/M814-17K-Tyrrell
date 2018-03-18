@@ -44,3 +44,5 @@ Originator: Ayisha Jayakodi - Agent
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[David James] The description of the NFR (what information to store) doesn't really match the rationale or the fit criterion which are both related to performance. I think the rationale and fit criterion are both good but I would change the description to more accurately reflect the NFR.
