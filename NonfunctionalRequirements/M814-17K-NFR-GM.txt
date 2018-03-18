@@ -1,4 +1,4 @@
-REQ-ID: M814-17K-NFR-GM
+REQ-ID:    M814-17K-NFR-GM
 Description: To include a good performing hosting service for the website to work from, with the additional fast upload and download speeds of storing of information capabilities, to include information about each house advertised including images.
 Type: Performance
 Rationale: Quick/acceptable connection speeds and server response times will enable the agent and potential holidaymakers update/see information reliably improving the user experience being able to review updated information reliably and accurately at the earliest opportunity.
