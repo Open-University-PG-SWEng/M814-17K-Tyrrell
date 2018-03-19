@@ -1,0 +1,11 @@
+REQ-ID: M814-17K-NFR-SP
+
+Description: The product shall ensure that data relating to rental properties may only be entered/updated by authorised personnel.
+
+Type: 15 - Security Requirements
+
+Rationale: The integrity of the data supplied by the property owner must be guaranteed. Any corruption of this data could invalidate the contract between Landbnb and the property owner. 
+
+Fit Criterion: Authenticated users with admin privileges may update rental property details; unauthenticated users may not update any rental property details.
+
+Originator: Ayisha Jayakodi
