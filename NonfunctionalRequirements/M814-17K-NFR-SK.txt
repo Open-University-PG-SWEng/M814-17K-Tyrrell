@@ -1,0 +1,9 @@
+REQ-ID: M814-17K-NFR-SK
+Description: The website should be accessible
+Type: Usability and Humanity Requirements
+Rationale: The website should be usable by people who have poor or no eyesight.
+Fit Criterion: The website should be available to be viewed using high contrast colour schemes and to be readable by screen readers for the blind.
+Originator: Ayisha Jayakodi - Agent
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
