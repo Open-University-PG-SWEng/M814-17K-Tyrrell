@@ -1,0 +1,15 @@
+REQ-ID:		M814-17K-NFR-DJ
+Description:	The product must allow the holiday owner to inform the company that they will be away from the property and provide instructions to service the property and collect consent for the actual amount to be charged
+Type:		Usability and Humanity
+Rationale:	Payable services will be provided based on the property owners instructions, consent must be collected from the property owner and they must be able to inform the dates of their absence
+Fit Criterion:	The system prominently displays an accurate price for the requested services and will not allow the property owner to book the service without confirming the price (modal window) 
+Originator:	Caroline Sterling
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[Gary-Mathers] : Hi David, hope this helps, for fit criterion I find it hard to read an actual measurement, for example I could say the consent to delivery payable services will be availble 
+for consenting to in under a minute, with maybe an assumption as to what you may have agreed on with your stakeholder, finding out what time frame is important to them for additional supporting materials.
+Other than measuring of fit criterion the description, type, rationale all seem really good.
+[David James] Thank you Gary for the feedback. I agree with you that there is no specific measurable goal in the fit criterion, and in fact on further review I don't even think I would classify my initial submission as a non-functional requirement! I did not turn it into a performance requirement as suggested but I did add a measurable criterion that the accurate price should be displayed and confirmed before proceeding.
+
+[Steven Plummer] Hope you don't mind me saying so David, but this definitely sounds more like a functional requirement. As a functional requirement I think it's great, and the rationale makes sense, but I do have a slight criticism of the fit criterion - it says in MRP that you should be wary of building in a solution to the requirement, and I feel that specifying how something be delivered (describing the use of a modal window) is doing just that. 

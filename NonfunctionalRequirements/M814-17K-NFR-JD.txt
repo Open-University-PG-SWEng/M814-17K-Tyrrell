@@ -1,0 +1,13 @@
+REQ-ID: M814-17K-NFR-JDay
+Description: The product shall use Landbnb branding to give the site a consistent look and feel.
+Type: Non-functional, Type 10 : Look and feel
+Rationale: The product shall use Landbnb corporate colours and branding logos so that everything has a consistent look and feel throughout the product.
+Fit Criterion: The branding guidelines provided by <name of person> from Landbnb shall be used throughout the product.
+Originator: Ayisha Jayakodi
+Comments:
+
+-FrancoisViljoen(TMA03 Q1c) - The Fit Criterion is missing from this NFR.  I think it could be a reference to the Style Guide of the Company in terms of Branding - and the version thereof.
+[Jaroslav Petrovskij] The fit criterion is not consistent with the organisational strucure of Landbnb, which does not have a marketing team or department, which could provide branding guidelines. I would suggest that the fit criterion is reworded along the lines of "The design and branding scheme formally agreed with the Landbnb representative shall be followed throughout the product."
+Kevin Florish: Obviously the branding is important as its mentioned within the original case study, maybe just mention we that want the branding to be consistent with the brochures currently used by landBnb.
+
+[Fernando Magrina] - The fit criterion is where the quality can be measured, so telling that the Landbnb brand shall be used throughout the product, should be in the description only. The fit criterion, for example, should mention how much you expect a user to satisfied when he/she access the website due the Landbnb branding is being well presented.

@@ -1,0 +1,11 @@
+REQ-ID: M814-17K-NFR-FM
+Description: Stored details must comply with the UK legislation.
+Type: 17 - Legal Requirements
+Rationale: To ensure that the Landbnb's database system and their data are legally managed.
+Fit Criterion: The database must be created, used and maintained legally by complying with the most up to date UK legislation. Data in general must comply with the Data Protection Act 1998 and for properties details data must comply with VisitBritain, the national tourism agency.
+Originator: Ayisha Jayakodi
+Comments:
+
+Jennifer Day : I'm not convinced that the use of a database should be mentioned as the method of storage still, perhaps it is the best way, but it feels like its an implementation detail - unless this is mentioned as a constraint?
+[Jaroslav Petrovskij] I think, the description should be made more specific by mentioning personal data rather than a database in general and the fit criterion should be made more specific by mentioning compliance with GDPR rather than generic UK legislation.
+[Alex Bogdanov] I agree with [Jennifer Day]s comment on the implementation detail, this could not pass the gateway, a better approach could be to simply mention "data storage".
